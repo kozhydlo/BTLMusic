@@ -1,0 +1,23 @@
+{
+  "name": "btlmusic",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify-json/heroicons": "^1.1.12",
+    "@vueuse/core": "^10.4.1",
+    "axios": "^1.3.5",
+    "file-saver": "^2.0.5",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "prettier": "3.0.2",
+    "unocss": "^0.56.4",
+    "vite": "^4.4.9"
+  }
+}

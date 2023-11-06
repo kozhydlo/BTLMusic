@@ -1,0 +1,66 @@
+[
+	{
+		"id": 0,
+		"name": "BTLMusic",
+		"theme": {
+			"backgroundColor": "#3F4F84",
+			"backgroundColorPlayer": "#344376",
+			"showBlockUtils": true,
+			"playerShow": {
+				"play": true,
+				"stop": true,
+				"love": true,
+				"loop": true,
+				"donwold": true
+			}
+		}
+	},
+	{
+		"id": 1,
+		"name": "BTLMusic Mini",
+		"theme": {
+			"backgroundColor": "#3F4F84",
+			"backgroundColorPlayer": "#344376",
+			"showBlockUtils": false,
+			"playerShow": {
+				"play": true,
+				"stop": true,
+				"love": false,
+				"loop": false,
+				"donwold": true
+			}
+		}
+	},
+	{
+		"id": 2,
+		"name": "BTL Hombrol",
+		"theme": {
+			"backgroundColor": "#3c2974",
+			"backgroundColorPlayer": "#784d3e",
+			"showBlockUtils": true,
+			"playerShow": {
+				"play": true,
+				"stop": true,
+				"love": true,
+				"loop": true,
+				"donwold": true
+			}
+		}
+	},
+	{
+		"id": 3,
+		"name": "BTL Hombrol Mini",
+		"theme": {
+			"backgroundColor": "#3c2974",
+			"backgroundColorPlayer": "#784d3e",
+			"showBlockUtils": false,
+			"playerShow": {
+				"play": true,
+				"stop": true,
+				"love": false,
+				"loop": false,
+				"donwold": true
+			}
+		}
+	}
+]
